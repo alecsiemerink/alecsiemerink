@@ -2,8 +2,6 @@
 
 I'm passionate about Cloud Computing and Cybersecurity. I work part-time as a Cloud Engineer while pursuing my full-time studies in Information Science. 
 
----
-
 ## My Tools
 <div align="center">  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
