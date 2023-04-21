@@ -1,6 +1,6 @@
 ## Hi there, I'm a Cloud Engineer & Student from the Netherlands! 👋
 
-I'm passionate about Cloud Computing and Cybersecurity. I work part-time as a Cloud Engineer while pursuing my full-time studies in Information Science. 
+I'm passionate about Cloud Computing and Cybersecurity. I work part-time as a Cloud Engineer while pursuing my full-time bachelor in Information Science. 
 
 ## My Tools
 <div align="center">  
